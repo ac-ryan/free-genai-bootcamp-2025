@@ -26,10 +26,11 @@ The formatted output will contain three parts:
 - Clues and Considerations
 
 ### Vocabulary Table
-- Don't repeat words in the vocabulary table
+- Don't repeat words in the vocabulary table. If miru verb is repeated twice, show it only once
 - Vocabulary table should only inclue, verbs, adverbs, adjectives, and nouns
 - Don't provide particles in the  table, student need to figure out the correct particles to use
 - Provide vocabulary in a table with three colums: Japanses, Romaji, English
+- If there is more than one meaning for a word. Show the most common meaning
 
 ### Sentence Structure
 - Don't provide particles in the sentence structure
