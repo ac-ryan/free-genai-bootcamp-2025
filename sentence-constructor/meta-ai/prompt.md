@@ -89,5 +89,7 @@ User input and assistant output examples. Pay attention to the score and why the
     </assistant:output>
 </example>
 
+## Student Input
+- Bears are at the door, did you leave the garbage out?
 
 
