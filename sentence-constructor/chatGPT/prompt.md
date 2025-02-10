@@ -17,9 +17,9 @@ Beginner, JLPT5
 - Provice a possible sentence structre
 - Do not use romaji when showing japanese exept in the vocabulary table
 
-## Formating Instructions
+## Formatting Instructions
 
-The formated output will contain three parts:
+The formatted output will contain three parts:
 - Vocabulary Table
 - Sentence Structure
 - Clues and Considerations
