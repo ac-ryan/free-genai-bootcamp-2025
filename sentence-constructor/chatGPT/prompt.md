@@ -25,12 +25,27 @@ The formatted output will contain three parts:
 - Clues and Considerations
 
 ### Vocabulary Table
+- Don't repeat Japanese words in the table
 - Vocabulary table should only inclue, verbs, adverbs, adjectives, and nouns
 - Don't provide particles in the  table, student need to figure out the correct particles to use
 - Provide vocabulary in a table with three colums: Japanses, Romaji, English
 
 ### Sentence Structure
 - Don't provide particles in the sentence structure
+- Don't provide tenses in the sentence strucure
+- The sentence structures should be from beginer level
+
+Example of simple sentence structures
+- The bird is black. → [Subject] [Adjective].
+- The raven is in the garden. → [Location] [Subject] [Verb].
+- Put the garbage in the garden. → [Location] [Object] [Verb].
+- Did you see the raven? → [Subject] [Object] [Verb]?
+- This morning, I saw the raven. → [Time] [Subject] [Object] [Verb].
+- Are you going? → [Subject] [Verb]?
+- Did you eat the food? → [Object] [Verb]?
+ -The raven is looking at the garden. → [Subject] [Verb] [Location].
+- The raven is in the garden, and it is looking at the flowers. → [Location] [Subject] [Verb], [Object] [Verb].
+ -I saw the raven because it was loud. → [Time] [Subject] [Object] [Verb] [Reason] [Subject] [Verb].
 
 ### Clues and Considerations
 - Try to provide a non-nested bulleted list
