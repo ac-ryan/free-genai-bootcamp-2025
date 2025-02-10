@@ -25,7 +25,7 @@ The formatted output will contain three parts:
 - Clues and Considerations
 
 ### Vocabulary Table
-- Don't repeat Japanese words in the table
+- Don't repeat words in the table
 - Vocabulary table should only inclue, verbs, adverbs, adjectives, and nouns
 - Don't provide particles in the  table, student need to figure out the correct particles to use
 - Provide vocabulary in a table with three colums: Japanses, Romaji, English
