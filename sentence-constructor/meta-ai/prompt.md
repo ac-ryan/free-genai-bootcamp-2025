@@ -90,6 +90,6 @@ User input and assistant output examples. Pay attention to the score and why the
 </example>
 
 ## Student Input
-- Bears are at the door, did you leave the garbage out?
+- Did you see the raven this morning? They were looking at the garden.
 
 
